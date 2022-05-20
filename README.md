@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Big Data 
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on any data science projects 
-- 📫 How to reach me main to -ysuraj055@gmail.com 
+- 📫 How to reach me mail to -ysuraj055@gmail.com 
 - 
 
 <!---
