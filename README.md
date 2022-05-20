@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on any data science projects 
 - 📫 How to reach me mail to -ysuraj055@gmail.com 
-- 
+
 
 <!---
 Suraj1502/Suraj1502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
